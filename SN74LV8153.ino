@@ -1,3 +1,9 @@
+/*
+ * Title:	 SN74LV8153.ino
+ * Author:       Sky Moore (mskymoore@gmail.com)
+ * Summary:      Arduino code to drive the outputs of the TI SN74LV8153 Serial-to-Parallel Interface
+*/
+
 int SERIAL_DATA = 2;//pushing data out on this pin
 int NOT_OUTPUT_ENABLE = 8;//ic not output enable pin
 int NOT_RESET = 9;//ic not reset pin
